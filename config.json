@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsrocess",
+        "uuid": 28405836,
+        "checksum": "1gkca"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
